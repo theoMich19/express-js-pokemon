@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Carapuce",
+    "pokemon_type": "water",
+    "size": 0.5,
+    "weight": 9.0,
+    "date_capture": "2024-01-16T16:52:06.590Z"
+  },
+  {
+    "name": "Salamèche",
+    "pokemon_type": "fire",
+    "size": 0.5,
+    "weight": 8.5,
+    "date_capture": "2024-01-16T16:55:10.033Z"
+  }
+]
