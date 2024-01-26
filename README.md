@@ -10,4 +10,4 @@ API Pokémon (JSON): Créer des routes pour gérer les informations sur les Pok�
 
 Vous retrouvez des exemples de données dans le dossier 
 
-> [Data json](app/data/data.json)
+> [Data json](data/data.json)
